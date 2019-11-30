@@ -12,5 +12,6 @@
     flex-wrap: wrap;
     justify-content: space-around;
 }
-
-
+.catt{
+    margin: 5px;
+}
