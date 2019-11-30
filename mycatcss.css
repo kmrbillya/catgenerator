@@ -1,0 +1,16 @@
+.catgenmain {
+    border: 1px solid black;
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    }
+
+.flexbox {
+    display: flex;
+    border: 1px solid black;
+    padding: 7px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+
